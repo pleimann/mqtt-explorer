@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.pleimann.mqtt
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, graalvm, gradle, hamcrest, jackson-databind, junit, kotlin, kotlin-build, kotlin-extension-functions, logback, micronaut-build, microstream, microstream-rest, mqtt, picocli, picocli-junit, picocli-kotlin-application, reactor, readme, shade, testcontainers, yaml]
